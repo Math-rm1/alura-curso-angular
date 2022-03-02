@@ -1,0 +1,118 @@
+{
+  "transferencias": [
+    {
+      "id": "1",
+      "valor": 35,
+      "contaDestino": "1212-1",
+      "data": "2020-11-04T16:30:10.710Z"
+    },
+    {
+      "id": "2",
+      "valor": 40,
+      "contaDestino": "1213-1",
+      "data": "2020-11-04T21:24:10.710Z"
+    },
+    {
+      "id": "3",
+      "valor": 12.5,
+      "contaDestino": "1214-1",
+      "data": "2020-11-05T21:14:10.710Z"
+    },
+    {
+      "valor": 10.5,
+      "contaDestino": "37705-5",
+      "data": "2022-03-02T14:20:30.427Z",
+      "id": "7sJ1hGt"
+    },
+    {
+      "valor": 10.5,
+      "contaDestino": "37705-5",
+      "data": "2022-03-02T14:27:16.123Z",
+      "id": "ezcArYq"
+    },
+    {
+      "valor": 100,
+      "contaDestino": "37705-5",
+      "data": "2022-03-02T14:27:19.253Z",
+      "id": "RiDMyUu"
+    },
+    {
+      "valor": 10.5,
+      "contaDestino": "37705-5",
+      "data": "2022-03-02T14:53:15.107Z",
+      "id": "6AWFOtM"
+    },
+    {
+      "valor": 10.5,
+      "contaDestino": "37705-5",
+      "data": "2022-03-02T14:55:15.151Z",
+      "id": "Cdgf5pU"
+    },
+    {
+      "valor": 10.5,
+      "contaDestino": "37705-5",
+      "data": "2022-03-02T14:55:28.285Z",
+      "id": "b2J3jtR"
+    },
+    {
+      "valor": 100,
+      "contaDestino": "37705-5",
+      "data": "2022-03-02T14:56:04.731Z",
+      "id": "tNaJB0o"
+    },
+    {
+      "valor": 10.5,
+      "contaDestino": "37705-5",
+      "data": "2022-03-02T16:14:22.056Z",
+      "id": "Rxsttcm"
+    },
+    {
+      "valor": 10.5,
+      "contaDestino": "37705-5",
+      "data": "2022-03-02T16:14:29.565Z",
+      "id": "lV6f7FP"
+    },
+    {
+      "valor": 150,
+      "contaDestino": "112124-1",
+      "data": "2022-03-02T16:19:39.477Z",
+      "id": "01hdvX6"
+    },
+    {
+      "valor": 500,
+      "contaDestino": "112124-1",
+      "data": "2022-03-02T16:47:14.701Z",
+      "id": "ETnSdI9"
+    },
+    {
+      "valor": 275,
+      "contaDestino": "112124-1",
+      "data": "2022-03-02T16:51:05.944Z",
+      "id": "i-rWt9J"
+    },
+    {
+      "valor": 15,
+      "contaDestino": "37705-5",
+      "data": "2022-03-02T16:53:19.541Z",
+      "id": "hG0t7w_"
+    },
+    {
+      "valor": 100,
+      "contaDestino": "37705-5",
+      "data": "2022-03-02T16:55:20.546Z",
+      "id": "5M1YJtK"
+    },
+    {
+      "valor": 20000,
+      "contaDestino": "37705-5",
+      "data": "2022-03-02T16:58:44.751Z",
+      "id": "84--pw-"
+    },
+    {
+      "valor": 2000,
+      "contaDestino": "37705-5",
+      "data": "2022-03-02T16:58:53.143Z",
+      "id": "Ltrwkp1"
+    }
+  ]
+}
